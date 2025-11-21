@@ -4,8 +4,8 @@
 
 <p align="center">
   <img src="../assets/network-cable-placeholder.jpg" alt="Network Cable Evolution" width="350">
+    <em>Image: Coaxial, UTP, CAT, and Fiber Optic Cables</em>
 </p>
-*Image: Coaxial, UTP, CAT, and Fiber Optic Cables (Sample Placeholder)*
 
 ## ⭐ How Did Networking Cables Evolve?
 Believe it or not, the internet did **not** start with Wi-Fi.  

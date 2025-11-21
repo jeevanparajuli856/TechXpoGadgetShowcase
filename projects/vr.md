@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="../assets/vr-technology-placeholder.jpg" alt="Network Cable Evolution" width="350">
+  <em>VR Headsets</em>
 </p>
-*Image: VR Headsets (Sample Placeholder)*
 
 ## ⭐ What Is Virtual Reality (VR)?
 Virtual Reality allows you to **step inside a digital world** instead of just looking at a screen.  

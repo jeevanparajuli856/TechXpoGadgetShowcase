@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="../assets/storage-unit-placeholder.jpg" alt="Network Cable Evolution" width="350">
+    <em>Image: Magnetic Tape Reels, Floppy Disks, Tape Cartridges</em>
 </p>
-*Image: Magnetic Tape Reels, Floppy Disks, Tape Cartridges (Sample Placeholder)*
 
 ## ⭐ A Quick Trip Through Storage History
 Before USB drives or cloud storage, computers stored data in some *surprisingly creative* ways.  

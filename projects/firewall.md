@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="../assets/firewall-placeholder.jpg" alt="Network Cable Evolution" width="350">
+    <em>Image: Cisco PIX 515e</em>
 </p>
-*Image: Cisco PIX 515e (Sample Placeholder)*
 
 ## ⭐ What Is a Firewall?
 A firewall is a **security guard for a computer network**.  

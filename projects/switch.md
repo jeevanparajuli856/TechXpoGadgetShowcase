@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="../assets/network-switch-placeholder.jpg" alt="Network Cable Evolution" width="350">
+    <em>Image: Cisco Catalyst 2960s</em>
 </p>
-*Image: Cisco Catalyst 2960s (Sample Placeholder)*
 
 ## ⭐ What Is a Network Switch?
 A network switch acts like a **traffic director** for devices in a building.  
