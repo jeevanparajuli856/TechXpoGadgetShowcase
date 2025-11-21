@@ -1,7 +1,7 @@
 # 🔀 **2. Network Switch – Cisco Catalyst 2950s** {#network-switch}
 
-![Cisco Catalyst 2950 Network Switch](./assets/network-switch-placeholder.jpg)
-*Image: Cisco Catalyst 2950s (Sample Placeholder)*
+![Cisco Catalyst 2960 Network Switch](./assets/network-switch-placeholder.jpg)
+*Image: Cisco Catalyst 2960s (Sample Placeholder)*
 
 ## ⭐ What Is a Network Switch?
 A network switch acts like a **traffic director** for devices in a building.  
