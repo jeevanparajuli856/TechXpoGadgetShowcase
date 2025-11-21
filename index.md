@@ -23,7 +23,7 @@ It works almost like a hot-glue gun that a computer controls with extreme precis
 
 ## ⭐ Why It Matters
 3D printing is transforming how we design, build, and experiment.  
-Students, engineers, artists — anyone can turn an idea into a real object within hours.
+Students, engineers, artists, anyone can turn an idea into a real object within hours.
 
 ## ⭐ How the MakerBot Replicator Works
 - Loads a spool of plastic (called **filament**)  
@@ -67,7 +67,7 @@ It gives students the power to **design something and see it become real**, an e
 
 ## ⭐ What Is a Network Switch?
 A network switch acts like a **traffic director** for devices in a building.  
-It connects computers, printers, and servers — making sure every piece of data reaches the right place quickly and safely.
+It connects computers, printers, and servers, making sure every piece of data reaches the right place quickly and safely.
 
 If Wi-Fi is the “air,” the switch is the **heart of the wired network**.
 
@@ -107,7 +107,7 @@ The switch is the **helper** who:
 ---
 
 ## ⭐ Why Students Should Care
-Every online activity — from Canvas to Netflix — depends on switches.  
+Every online activity from Canvas to Netflix depends on switches.  
 Understanding them shows how real-world networks stay connected.
 ---
 
@@ -157,7 +157,7 @@ Imagine you’re hosting a party:
 - **Random strangers** = blocked  
 - **Suspicious behavior** = flagged and stopped  
 
-That’s exactly what a firewall does — it keeps the good in and the bad out.
+That’s exactly what a firewall does it keeps the good in and the bad out.
 
 ---
 
@@ -191,7 +191,7 @@ Thick, tough, and used with BNC T-connectors.
 This was the “vintage internet” used in early LANs.
 
 ### 🔵 **2. UTP (Twisted Pair) – The Flexible Favorite**
-Engineers twisted the wires to reduce interference — simple idea, big improvement!
+Engineers twisted the wires to reduce interference simple idea, big improvement!
 
 ### 🟢 **3. CAT Cables – Getting Faster Every Generation**
 - **CAT3 → CAT5 → CAT5e → CAT6 → CAT6a → CAT7/8**  
@@ -257,7 +257,7 @@ These older formats paved the way for:
 ---
 
 ## ⭐ Why It’s Cool
-Storage evolution shows how fast technology changes —  
+Storage evolution shows how fast technology changes,
 what once required a *refrigerator-sized* machine now fits on a *tiny microchip*.
 
 It’s a perfect reminder of how far computing has come.
@@ -277,7 +277,7 @@ It’s a perfect reminder of how far computing has come.
 
 ## ⭐ What Is Virtual Reality (VR)?
 Virtual Reality allows you to **step inside a digital world** instead of just looking at a screen.  
-Put on the headset, and suddenly you’re standing in a virtual lab, a new city, a game world — anywhere.
+Put on the headset, and suddenly you’re standing in a virtual lab, a new city, a game world anywhere.
 
 It’s one of the most immersive technologies ever created.
 
@@ -295,7 +295,7 @@ Together, these tricks convince your brain that the virtual world is *real*.
 ---
 
 ## ⭐ Why VR Matters
-VR is not just for gaming — it’s changing many fields:
+VR is not just for gaming, it’s changing many fields:
 
 ### 🎓 Education  
 Students can explore molecules, ancient history, engineering models, and more.
@@ -317,7 +317,7 @@ VR transforms learning, training, creativity, and entertainment.
 It’s fun, interactive, and unforgettable.  
 VR lets you **experience** things instead of just reading about them.
 
-It’s learning — but upgraded.
+It’s learning, but upgraded.
 
 ---
 
