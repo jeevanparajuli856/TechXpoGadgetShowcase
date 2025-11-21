@@ -1,8 +1,3 @@
----
-title: TechXpo 2025 – Hardware & Technology Showcase
-layout: default
----
-
 # 🔧 TechXpo 2025 – Hardware & Technology Showcase
 Welcome to the official showcase for the hardware and technology items at **TechXpo 2025**.  
 Scan the QR code at each display to jump directly to its section below.
@@ -18,7 +13,7 @@ Scan the QR code at each display to jump directly to its section below.
 # 🖨️ **1. 3D Printer – MakerBot Replicator**
 
 <p align="center">
-  <img src="../assets/3d-printer-placeholder.jpg" alt="Network Cable Evolution" width="350">
+  <img src="assets/3d-printer-placeholder.jpg" alt="Network Cable Evolution" width="350">
     <em>Image: MakerBot Replicator</em>
 </p>
 
@@ -66,7 +61,7 @@ It gives students the power to **design something and see it become real**, an e
 # 🔀 **2. Network Switch – Cisco Catalyst 2950s**
 
 <p align="center">
-  <img src="../assets/network-switch-placeholder.jpg" alt="Network Cable Evolution" width="350">
+  <img src="assets/network-switch-placeholder.jpg" alt="Network Cable Evolution" width="350">
     <em>Image: Cisco Catalyst 2960s</em>
 </p>
 
@@ -125,7 +120,7 @@ Understanding them shows how real-world networks stay connected.
 # 🔥 **3. Network Firewall – Cisco PIX 515e**
 
 <p align="center">
-  <img src="../assets/firewall-placeholder.jpg" alt="Network Cable Evolution" width="350">
+  <img src="assets/firewall-placeholder.jpg" alt="Network Cable Evolution" width="350">
     <em>Image: Cisco PIX 515e</em>
 </p>
 
@@ -181,7 +176,7 @@ Understanding them helps you appreciate how your university, workplace, and even
 **Coaxial → BNC T-Connector → UTP → CAT → Fiber Optic**
 
 <p align="center">
-  <img src="../assets/network-cable-placeholder.jpg" alt="Network Cable Evolution" width="350">
+  <img src="assets/network-cable-placeholder.jpg" alt="Network Cable Evolution" width="350">
     <em>Image: Coaxial, UTP, CAT, and Fiber Optic Cables</em>
 </p>
 
@@ -229,7 +224,7 @@ They’re the **invisible heroes** of the internet.
 # 💾 **5. Storage Unit – IBM Magnetic Tape, Floppy Disk, Exabyte Cartridges**
 
 <p align="center">
-  <img src="../assets/storage-unit-placeholder.jpg" alt="Network Cable Evolution" width="350">
+  <img src="assets/storage-unit-placeholder.jpg" alt="Network Cable Evolution" width="350">
     <em>Image: Magnetic Tape Reels, Floppy Disks, Tape Cartridges</em>
 </p>
 
@@ -276,7 +271,7 @@ It’s a perfect reminder of how far computing has come.
 # 🥽 **6. VR Technology – Meta Quest 2 & Oculus Rift** {#vr-technology}
 
 <p align="center">
-  <img src="../assets/vr-technology-placeholder.jpg" alt="Network Cable Evolution" width="350">
+  <img src="assets/vr-technology-placeholder.jpg" alt="Network Cable Evolution" width="350">
   <em>VR Headsets</em>
 </p>
 
