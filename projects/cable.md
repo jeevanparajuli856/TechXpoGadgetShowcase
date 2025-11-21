@@ -2,7 +2,9 @@
 **Coaxial → BNC T-Connector → UTP → CAT → Fiber Optic**  
 {#network-cable}
 
-![Network Cable Evolution](../assets/network-cable-placeholder.jpg)
+<p align="center">
+  <img src="../assets/network-cable-placeholder.jpg" alt="Network Cable Evolution" width="350">
+</p>
 *Image: Coaxial, UTP, CAT, and Fiber Optic Cables (Sample Placeholder)*
 
 ## ⭐ How Did Networking Cables Evolve?
