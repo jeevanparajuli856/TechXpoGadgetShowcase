@@ -1,6 +1,8 @@
 # 🖨️ **1. 3D Printer – MakerBot Replicator** {#3d-printer}
 
-![3D Printer – MakerBot Replicator](../assets/3d-printer-placeholder.jpg)
+<p align="center">
+  <img src="../assets/3d-printer-placeholder.jpg" alt="Network Cable Evolution" width="350">
+</p>
 *Image: MakerBot Replicator (Sample Placeholder)*
 
 ## ⭐ What Is a 3D Printer?

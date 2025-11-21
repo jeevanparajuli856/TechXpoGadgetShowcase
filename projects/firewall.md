@@ -1,6 +1,8 @@
 # 🔥 **3. Network Firewall – Cisco PIX 515e** {#firewall}
 
-![Cisco PIX 515e Firewall](../assets/firewall-placeholder.jpg)
+<p align="center">
+  <img src="../assets/firewall-placeholder.jpg" alt="Network Cable Evolution" width="350">
+</p>
 *Image: Cisco PIX 515e (Sample Placeholder)*
 
 ## ⭐ What Is a Firewall?

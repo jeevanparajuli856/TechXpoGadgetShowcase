@@ -1,6 +1,8 @@
 # 💾 **5. Storage Unit – IBM Magnetic Tape, Floppy Disk, Exabyte Tape Cartridges** {#storage-unit}
 
-![Storage Devices – Magnetic Tape, Floppy Disks, Tape Cartridges](../assets/storage-unit-placeholder.jpg)
+<p align="center">
+  <img src="../assets/storage-unit-placeholder.jpg" alt="Network Cable Evolution" width="350">
+</p>
 *Image: Magnetic Tape Reels, Floppy Disks, Tape Cartridges (Sample Placeholder)*
 
 ## ⭐ A Quick Trip Through Storage History
