@@ -1,6 +1,6 @@
 # 🔀 **2. Network Switch – Cisco Catalyst 2950s** {#network-switch}
 
-![Cisco Catalyst 2960 Network Switch](./assets/network-switch-placeholder.jpg)
+![Cisco Catalyst 2960 Network Switch](../assets/network-switch-placeholder.jpg)
 *Image: Cisco Catalyst 2960s (Sample Placeholder)*
 
 ## ⭐ What Is a Network Switch?

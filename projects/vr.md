@@ -1,6 +1,6 @@
 # 🥽 **6. VR Technology – Meta Quest 2 & Oculus Rift** {#vr-technology}
 
-![VR Technology – Meta Quest 2 & Oculus Rift](./assets/vr-technology-placeholder.jpg)
+![VR Technology – Meta Quest 2 & Oculus Rift](../assets/vr-technology-placeholder.jpg)
 *Image: VR Headsets (Sample Placeholder)*
 
 ## ⭐ What Is Virtual Reality (VR)?
