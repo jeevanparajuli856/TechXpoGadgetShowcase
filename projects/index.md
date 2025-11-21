@@ -273,6 +273,8 @@ It’s a perfect reminder of how far computing has come.
 <!-- 🎯 6. VR TECHNOLOGY -->
 <!-- ========================= -->
 
+# 🥽 **6. VR Technology – Meta Quest 2 & Oculus Rift** {#vr-technology}
+
 <p align="center">
   <img src="../assets/vr-technology-placeholder.jpg" alt="Network Cable Evolution" width="350">
   <em>VR Headsets</em>
