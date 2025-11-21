@@ -33,4 +33,7 @@ This process is called **additive manufacturing**, because the machine *adds* ma
 - Engineering thinking  
 - Rapid experimentation  
 
-It gives students the power to **design something and see it become real** — an exciting experience for anyone, regardless of major.
+It gives students the power to **design something and see it become real**, an exciting experience for anyone, regardless of major.
+
+----
+
